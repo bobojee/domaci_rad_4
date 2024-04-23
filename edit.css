@@ -1,0 +1,14 @@
+*{
+    margin-bottom: 10px;
+    display: block;
+    flex-direction: column;
+}
+
+.porez_gumb{
+    width: 100px;
+    background-color: pink;
+}
+
+.cena_gumb{
+    padding: 3px;
+}
